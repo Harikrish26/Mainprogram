@@ -23,5 +23,6 @@ public class Armstrong {
 			}
 			System.out.println("File has been modified" );
 	}
+			System.out.println("Another modification done");
 
 }
