@@ -21,6 +21,7 @@ public class Armstrong {
 			else {
 				System.out.println("Not Armstrong Number");
 			}
+			System.out.println("File has been modified" );
 	}
 
 }
