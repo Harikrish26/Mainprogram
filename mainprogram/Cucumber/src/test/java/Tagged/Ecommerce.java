@@ -27,6 +27,11 @@ public class Ecommerce {
 
 	@Then("^close the app$")
 	public void close_the_app() {
+		
+		System.out.println("Hi Hari....-");
+		
+		
+		
 	}
 
 }
